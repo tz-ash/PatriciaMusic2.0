@@ -10,24 +10,24 @@ async def start(_, message: Message):
     await message.reply_photo("https://telegra.ph/file/37589911c048164588393.jpg")
     await message.reply_text(
         f"""**Hey, I'm {bn} 🎀
-I Cᴀɴ Pʟᴀʏ Mᴜsɪᴄ Iɴ Yᴏᴜʀ Sᴇxʏ Gʀᴏᴜᴩ Vᴏɪᴄᴇ Cʜᴀᴛ. Dᴇᴠᴇʟᴏᴩᴇᴅ Bʏ [Bʟᴀᴢᴇ•Oᴩ](https://t.me/piroXpower).
+I Cᴀɴ Pʟᴀʏ Mᴜsɪᴄ Iɴ Yᴏᴜʀ Sᴇxʏ Gʀᴏᴜᴩ Vᴏɪᴄᴇ Cʜᴀᴛ. Dᴇᴠᴇʟᴏᴩᴇᴅ Bʏ [ᴛʜɪꜱ ᴋɪᴅ](https://t.me/kid_of_telegram).
 Aᴅᴅ Mᴇ Tᴏ Yᴏᴜʀ Gʀᴏᴜᴩ Aɴᴅ Pʟᴀʏ Mᴜsɪᴄ Fʀᴇᴇʟʏ!**
         """,
         reply_markup=InlineKeyboardMarkup(
             [
                 [
                     InlineKeyboardButton(
-                        "Oᴡɴᴇʀ😘", url="t.me/piroXpower")
+                        "Oᴡɴᴇʀ😘", url="t.me/kid_of_telegram")
                   ],[
                     InlineKeyboardButton(
-                        "Sᴜᴩᴩᴏʀᴛ👿", url="https://t.me/patricia_Support"
+                        "Sᴜᴩᴩᴏʀᴛ👿", url="https://t.me/tzkid"
                     ),
                     InlineKeyboardButton(
-                        "Cʜᴀɴɴᴇʟ", url="https://t.me/patricia_updates"
+                        "Cʜᴀɴɴᴇʟ", url="https://t.me/kidbots"
                     )
                 ],[ 
                     InlineKeyboardButton(
-                        "➕ Gʀᴏᴜᴩ Mᴇ ᴅᴀʟᴅᴏ➕", url="https://t.me/BITTU_MUSICBOT?startgroup=true"
+                        "➕ ᴀᴅᴅ ᴍᴇ ➕", url="https://t.me/InayaMusic_bot?startgroup=true"
                     )]
             ]
         ),
@@ -41,7 +41,7 @@ async def gstart(_, message: Message):
             [
                 [
                     InlineKeyboardButton(
-                        "🔊Uᴩᴅᴀᴛᴇs", url="https://t.me/patricia_updates")
+                        "🔊Uᴩᴅᴀᴛᴇs", url="https://t.me/kidbots")
                 ]
             ]
         )
